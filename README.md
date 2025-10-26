@@ -33,7 +33,7 @@ I design and build **full-stack applications** from the ground up — from archi
 
 
 ### 🔹 Community Leadership
-As **President of the Computer Engineering Club @[club-genie-informatique-enspy](https://github.com/club-genie-informatique-enspy)** in 2024-2025, I led a team of 24 members, organize workshops (Laravel, React, Spring Boot), and run hackathons to accelerate skill development and professional readiness.
+As **President of the Computer Engineering Club @[club-genie-informatique-enspy](https://github.com/club-genie-informatique-enspy)** in 2024-2025, I led a team of 24 members, organized workshops (Laravel, React, Spring Boot), and ran hackathons to accelerate skill development and professional readiness.
 
 ---
 
